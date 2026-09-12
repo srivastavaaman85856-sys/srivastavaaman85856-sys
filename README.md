@@ -106,13 +106,13 @@ A Retrieval-Augmented Generation (RAG) agent designed to provide intelligent, co
 ### 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=srivastavaaman85856-sys&theme=nord&no-frame=true&no-bg=true&column=7" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=srivastavaaman85856-sys&theme=nord&no-frame=true&no-bg=true&column=7&v=2" alt="Trophies" />
 </div>
 
 ### 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=srivastavaaman85856-sys&theme=react-dark&hide_border=true&color=a78bfa&line=a78bfa&point=ffffff" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=srivastavaaman85856-sys&theme=react-dark&hide_border=true&color=a78bfa&line=a78bfa&point=ffffff&v=2" alt="Activity Graph" />
 </div>
 
 ---
