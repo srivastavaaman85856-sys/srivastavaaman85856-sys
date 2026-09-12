@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.com/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Aman%20Srivastava&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI/ML%20Enthusiast&descAlignY=55&descSize=20)
+![Header](capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Aman%20Srivastava&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI/ML%20Enthusiast&descAlignY=55&descSize=20)
 
 <img src="https://raw.githubusercontent.com/srivastavaaman85856-sys/srivastavaaman85856-sys/main/assets/profile.jpg" width="160" style="border-radius:50%;border:3px solid #a78bfa;" alt="Aman Srivastava" />
 
