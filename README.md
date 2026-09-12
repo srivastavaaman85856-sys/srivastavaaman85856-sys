@@ -56,7 +56,7 @@ A Retrieval-Augmented Generation (RAG) agent designed to provide intelligent, co
 
 <div align="center">
 
-<img src="<img src="https://github-stats-extended.vercel.app/api/pin/?username=srivastavaaman85856-sys&repo=RAG-Agent-for-DIP-Diet&theme=nord&border_color=a78bfa&title_color=a78bfa" alt="RAG Agent for DIP Diet" />" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=srivastavaaman85856-sys&repo=RAG-Agent-for-DIP-Diet&theme=nord&border_color=a78bfa&title_color=a78bfa" alt="RAG Agent for DIP Diet" />
 
 | Layer | Technology |
 |-------|------------|
