@@ -128,6 +128,6 @@ A Retrieval-Augmented Generation (RAG) agent designed to provide intelligent, co
 
 </div>
 
-![Footer](https://capsule-render.com/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling&v=2)
 
 </div>
