@@ -19,19 +19,9 @@
 
 <h2 align="center">🧠 Who I Am</h2>
 
-```typescript
-const aman = {
-  title: "AI/ML Enthusiast",
-  stack: ["Java", "Python", "C", "AI", "Machine Learning", "Deep Learning", "Generative AI"],
-  launchedProjects: [
-    "SKY — Disaster AI Assistant",
-    "RAG Agent for DIP Diet"
-  ],
-  certifications: [], // add yours here
-  status: "Exploring AI/ML & Generative AI",
-  openTo: ["AI/ML Collaborations", "Research Opportunities", "Interesting Projects"]
-};
-```
+<p align="center">
+I'm an <b>AI/ML Enthusiast</b> working with Java, Python, C, and exploring Machine Learning, Deep Learning, and Generative AI. I've built projects like <b>SKY — Disaster AI Assistant</b> and a <b>RAG Agent for DIP Diet</b>, and I'm currently exploring more in AI/ML and Generative AI. I'm open to <b>AI/ML collaborations</b>, <b>research opportunities</b>, and <b>interesting projects</b> — feel free to reach out!
+</p>
 
 ---
 
