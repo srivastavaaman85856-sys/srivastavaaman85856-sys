@@ -50,11 +50,13 @@ An AI-powered, multilingual disaster response assistant with live incident mappi
 
 A Retrieval-Augmented Generation (RAG) agent designed to provide intelligent, context-aware guidance on the DIP diet.
 
-<!-- Screenshot skipped for this project — add one later at assets/rag-screenshot.png -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/srivastavaaman85856-sys/srivastavaaman85856-sys/main/assets/rag-screenshot.png" width="85%" style="border-radius:8px;border:1px solid #a78bfa33;" alt="RAG Agent for DIP Diet Screenshot" />
+</p>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=srivastavaaman85856-sys&repo=RAG-Agent-for-DIP-Diet&theme=nord&border_color=a78bfa&title_color=a78bfa" alt="RAG Agent for DIP Diet" />
+<img src="<img src="https://github-stats-extended.vercel.app/api/pin/?username=srivastavaaman85856-sys&repo=RAG-Agent-for-DIP-Diet&theme=nord&border_color=a78bfa&title_color=a78bfa" alt="RAG Agent for DIP Diet" />" />
 
 | Layer | Technology |
 |-------|------------|
