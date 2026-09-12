@@ -97,9 +97,8 @@ A Retrieval-Augmented Generation (RAG) agent designed to provide intelligent, co
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=srivastavaaman85856-sys&show_icons=true&theme=nord&border_color=a78bfa&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavaaman85856-sys&layout=compact&theme=nord&border_color=a78bfa&title_color=a78bfa&text_color=c9d1d9" alt="Top Languages" height="165"/>
-
+<img src="https://github-stats-extended.vercel.app/api?username=srivastavaaman85856-sys&show_icons=true&theme=nord&border_color=a78bfa&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&v=2" alt="GitHub Stats" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=srivastavaaman85856-sys&layout=compact&theme=nord&border_color=a78bfa&title_color=a78bfa&text_color=c9d1d9&v=2" alt="Top Languages" height="165"/>
 <img src="https://streak-stats.demolab.com?user=srivastavaaman85856-sys&theme=nord&border=a78bfa&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak" />
 
 </div>
